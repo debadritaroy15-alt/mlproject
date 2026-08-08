@@ -217,3 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .artifacts
+catboost_info/
+__pycache__/
+*.pyc
+venv/
+.env
